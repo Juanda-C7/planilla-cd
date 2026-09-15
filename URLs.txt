@@ -1,0 +1,15 @@
+Fork:
+https://github.com/Juanda-C7/planilla-cd
+
+RED — CI #2:
+https://github.com/Juanda-C7/planilla-cd/actions/runs/34944223918
+SHA: 10917794de6e3cc878c04bb0fcc1d1279bce7b9b
+
+GREEN — CI #3:
+https://github.com/Juanda-C7/planilla-cd/actions/runs/34944437645
+SHA: 8831938017645c08e30b5968dcd8a5eed66db049
+
+Coverage:
+99.01%
+52 tests passed
+Required minimum: 80%
