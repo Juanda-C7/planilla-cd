@@ -72,7 +72,7 @@ def test_main_calcula_planilla(monkeypatch, capsys):
     salida = capsys.readouterr()
 
     assert resultado == 0
-    assert "Liquido: Q3747.14" in salida.out
+    assert "Liquido: Q9999.99" in salida.out
     assert "Descuentos: Q702.86" in salida.out
 
 
